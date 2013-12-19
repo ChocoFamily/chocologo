@@ -1,0 +1,15 @@
+.b-logo__lensmark {
+}
+
+.e-lensmark__start {
+    color: #357184;
+}
+
+.e-lensmark__middle {
+    color: #525e62;
+    font-weight: 100;
+}
+
+.e-lensmark__end {
+    color: #515e61; vertical-align: super; font-size: 35%; position: absolute; font-weight: 400; line-height: 50%;
+}
