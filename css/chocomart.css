@@ -5,10 +5,12 @@
 .e-chocomart__start {
     color: #494d4f;
     font-weight: 100;
+    letter-spacing: -2.5px;
 }
 
 .e-chocomart__middle {
     color: #c23838;
+    letter-spacing: -2.5px;
 }
 
 .e-chocomart__end {
