@@ -1,0 +1,21 @@
+/* Chocomart Logotype in pure CSS */
+.b-logo__chocomart {
+}
+
+.e-chocomart__start {
+    color: #494d4f;
+    font-weight: 100;
+}
+
+.e-chocomart__middle {
+    color: #c23838;
+}
+
+.e-chocomart__end {
+    color: #494d4f;
+    vertical-align: super; 
+    font-size: 35%;
+    position: absolute;
+    font-weight: 400;
+    line-height: 50%;
+}
